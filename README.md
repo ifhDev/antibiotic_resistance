@@ -39,11 +39,11 @@ The main objective is to establish a reproducible, modular data science workflow
 ## Key Visualizations
 
 * **Country Comparison (2018):**
-  ![Bar plot of resistance rates by country](bar_resistance.png)
+  ![Bar plot of resistance rates by country](reports/figures/bar_resistance.png)
   *Shows wide variation in resistance rates across Europe, from <15% (Finland, Norway) to nearly 40% (Bulgaria).*
 
 * **Trends Over Time (2000–2018):**
-  ![Line plot of resistance trends for selected countries](trends.png)
+  ![Line plot of resistance trends for selected countries](reports/figures/trends.png)
   *Highlights regional differences and rising resistance in certain countries over the last two decades.*
 
 ## Methods Summary
